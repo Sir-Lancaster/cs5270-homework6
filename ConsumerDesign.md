@@ -1,4 +1,6 @@
 # Consumer Design
+*used AI to help speed up writing the tests.*
+
 Processes JSON objects as requests to create, update, or deleteWidgest. 
 
 ## Requirements

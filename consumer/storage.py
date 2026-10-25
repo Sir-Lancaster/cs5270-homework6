@@ -21,7 +21,7 @@ class S3WidgetStorage(WidgetStorage):
             Key=f"widgets/{widget['owner'].lower().replace(' ', '-')}/{widget['widgetId']}",
             Body=json.dumps(widget),
         )
-        logging.info("Created widget %s in S3 bucket %s", widget["WidgetId"], self.bucket_name)
+        logging.info("Created widget %s in S3 bucket %s", widget["widgetId"], self.bucket_name)
 
 
 class DynamoWidgetStorage(WidgetStorage):
@@ -46,4 +46,4 @@ class DynamoWidgetStorage(WidgetStorage):
     def create(self, widget):
         item = self.to_item(widget)
         self.dynamo_table.put_item(Item=item)
-        logging.info("Created widget %s in DynamoDB table %s", widget["WidgetId"], self.dynamo_table)
+        logging.info("Created widget %s in DynamoDB table %s", widget["widgetId"], self.dynamo_table.name)
