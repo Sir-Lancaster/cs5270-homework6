@@ -26,42 +26,86 @@ Processes JSON objects as requests to create, update, or deleteWidgest.
 class WidgetStorage(ABC):
     @abstractmethod
     def create(self, widget): 
-
+        ...
     # HW7 will add update() and delete()
 
 
 class S3WidgetStorage(WidgetStorage):
     def __init__(self, s3_client, bucket_name):
-        # remember these on self
+        self.s3_client = s3_client
+        self.bucket_name = bucket_name
 
     def create(self, widget):
-        # key  = build widgets/{owner}/{id}   (owner: lowercase, spaces -> dashes)
-        # body = widget as a JSON string
-        # upload body to bucket under key
+        self.s3_client.put_object(
+            Bucket=self.bucket_name,
+            Key=f"widgets/{widget['owner'].lower().replace(' ', '-')}/{widget['widgetId']}",
+            Body=json.dumps(widget),
+        )
 
 
 class DynamoWidgetStorage(WidgetStorage):
     def __init__(self, dynamo_table):
-        # remember it on self
+        self.dynamo_table = dynamo_table
+
+    def to_item(self, widget):
+        item = {
+            "widget_id": widget["widgetId"],
+            "owner": widget["owner"],
+        }
+
+        for field in ("label", "description"):
+            if field in widget:
+                item[field] = widget[field]
+
+        for attribute in widget.get("otherAttributes", []):
+            item[attribute["name"]] = attribute["value"]
+
+        return item
 
     def create(self, widget):
-        # item = widget's fields + each otherAttribute as its own key
-        # put item into table
+        item = self.to_item(widget)
+        self.dynamo_table.put_item(Item=item)
+
+class RequestSource(ABC):
+    @abstractmethod
+    def get_next_request(self):
+        ...
 
 class S3RequestSource(RequestSource):
     def __init__(self, s3_client, bucket_name):
+        self.s3_client = s3_client
+        self.bucket_name = bucket_name
 
     def get_next_request(self):
-
+        resp = self.s3_client.list_objects_v2(Bucket=self.bucket_name, MaxKeys=1)
+        contents = resp.get("Contents", [])
+        key = contents[0]["Key"] if contents else None
+        if key is None:
+            return None
+        obj = self.s3_client.get_object(Bucket=self.bucket_name, Key=key)
+        text = obj["Body"].read().decode("utf-8")
+        self.s3_client.delete_object(Key=key, Bucket=self.bucket_name)
+        return text
 
 def main():
     arg = parse_args()
+
+    logging.basicConfig(
+        filename="consumer.log",
+        level=logging.INFO,
+        format="%(asctime)s %(levelname)s %(message)s",
+    )
+
+    s3_client=boto3.client("s3")
+
     if arg.storage == "s3":
         storage = S3WidgetStorage(s3_client, arg.widget_bucket)
     else: 
+        dynamo_table = boto3.resource("dynamodb").Table(arg.table)
         storage = DynamoWidgetStorage(dynamo_table)
+
     source = S3RequestSource(s3_client, arg.request_bucket)
-    poll(source, storage, arg.max_empty_polls = 10)
+    poll(source, storage, arg.max_empty_polls)
 
 def poll(source, storage, max_empty_polls):
     empty_polls = 0
@@ -77,18 +121,36 @@ def poll(source, storage, max_empty_polls):
             empty_polls += 1
             time.sleep(0.1) # 100 milisecnds
 
+def parse_request(text):
+    try:
+        request = json.loads(text)
+    except json.JSONDecodeError as e:
+        logging.warning("Skipping request: invalid JSON (%s)", e)
+        return None
 
+    if not isinstance(request, dict):
+        logging.warning("Skipping request: not a JSON object")
+        return None
 
-def processRequest(object request, WidgetStorage storage):
-    switch request.type:
-        case request.type == "create":
-            storage.create(a)
+    if not request.get('type') in ("create", "update", "delete"):
+        logging.warning("Skipping request: incorrect type")
+        return None
+
+    if "owner" not in request or "widgetId" not in request:
+        logging.warning("Skipping request: missing owner or widget id")
+        return None
+    return request
+
+def processRequest(request, storage):
+    match request['type']:
+        case "create":
+            storage.create(request)
         
-        case request.type == "update":
+        case "update":
             pass
         
-        case request.type == "delete":
+        case "delete":
             pass
-
+        case _:
+            logging.warning(f"bad request type on widget {request['widgetId']}")
 ```
-
