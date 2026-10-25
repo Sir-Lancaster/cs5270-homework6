@@ -37,7 +37,7 @@ def test_dynamo_to_item_converts_widget_fields():
     item = storage.to_item(WIDGET)
 
     assert item == {
-        "widget_id": "12345",
+        "id": "12345",
         "owner": "Jane Doe",
         "label": "Temperature",
         "description": "Displays temperature",
@@ -54,7 +54,7 @@ def test_dynamo_to_item_omits_optional_fields_when_missing():
     }
 
     assert storage.to_item(widget) == {
-        "widget_id": "12345",
+        "id": "12345",
         "owner": "Jane Doe",
     }
 
@@ -65,7 +65,7 @@ def test_dynamo_create_puts_flattened_item_in_table():
 
     table.put_item.assert_called_once_with(
         Item={
-            "widget_id": "12345",
+            "id": "12345",
             "owner": "Jane Doe",
             "label": "Temperature",
             "description": "Displays temperature",

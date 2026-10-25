@@ -30,7 +30,7 @@ class DynamoWidgetStorage(WidgetStorage):
 
     def to_item(self, widget):
         item = {
-            "widget_id": widget["widgetId"],
+            "id": widget["widgetId"],
             "owner": widget["owner"],
         }
 
