@@ -2,6 +2,8 @@ import json
 import logging
 
 def parse_request(text):
+    """Takes the text of a request, checks that it is a json object, has the correct request type, 
+    and has the owner in the request. If all are true, returns the request."""
     try:
         request = json.loads(text)
     except json.JSONDecodeError as e:
