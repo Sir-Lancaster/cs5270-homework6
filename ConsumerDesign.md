@@ -3,6 +3,11 @@
 
 Processes JSON objects as requests to create, update, or deleteWidgest. 
 
+---
+
+## Homework 7 adjustments
+- S3 continues to delete in `get_next_request()` to avoid having stale requests in the bucket in the event of an exception interrupting processing of that request.
+
 ## Requirements
 1. Store widgets in either s3 bucket 3 or dynamoBD table. 
     - Specify command line arguments to determine which.

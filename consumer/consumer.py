@@ -34,23 +34,28 @@ def main():
 
 def poll(source, storage, max_empty_polls):
     """Gets the next request from the source. If poll returns empty the function accumulates a count, 
-    after the accumulated sequential empty polls exceeds the max_empty_polls, function returns."""
+    after the accumulated sequential empty polls reaches the max_empty_polls, function returns."""
 
     empty_polls = 0
     while empty_polls < max_empty_polls:
         try:
-            request_raw = source.get_next_request()
-            if request_raw is not None:
+            result = source.get_next_request()
+            if result is not None:
+                request_raw, request_handle = result
                 empty_polls = 0
                 request = parse_request(request_raw)
                 if request is None:
+                    source.complete(request_handle)
                     continue
                 processRequest(request, storage)
+                source.complete(request_handle)
             else: 
                 empty_polls += 1
                 time.sleep(0.1) # 100 milisecnds
-        except: 
-            logging.exception("Failed to poll queue")
+        except Exception: 
+            empty_polls += 1
+            time.sleep(0.1)
+            logging.exception("Error handling request.")
 
 def processRequest(request, storage):
     """Uses switch/case block to handle create, update, and delete requests."""
