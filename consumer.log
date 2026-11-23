@@ -294,3 +294,542 @@
 2026-10-25 15:52:48,436 INFO Created widget c74395fd-634b-4deb-8a70-24a7e357f16a in DynamoDB table widgets
 2026-10-25 15:52:48,911 INFO Created widget 94774df4-39eb-44f3-ab00-af4c6a303901 in DynamoDB table widgets
 2026-10-25 15:52:49,382 INFO Created widget 92b32152-4aef-4d89-9a25-3b35df321804 in DynamoDB table widgets
+2026-11-23 16:13:26,804 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-11-23 16:14:34,902 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-11-23 16:15:22,243 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-11-23 16:19:59,059 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-11-23 16:20:00,782 INFO Created widget 39f9bfa4-a76d-4020-862a-0850ecfac73a in DynamoDB table widgets
+2026-11-23 16:20:00,979 INFO Created widget a9ea0b78-c1c7-48b3-b015-46816a9899cd in DynamoDB table widgets
+2026-11-23 16:20:01,160 INFO Created widget e0b4e6d8-f421-4566-a144-1a8737d2fa45 in DynamoDB table widgets
+2026-11-23 16:20:01,343 INFO Created widget edc197f0-49ca-418e-8af7-880b9b7a4092 in DynamoDB table widgets
+2026-11-23 16:20:01,537 INFO Created widget eaffbe7e-a6f6-4a5d-9490-c564917d53f7 in DynamoDB table widgets
+2026-11-23 16:20:01,723 INFO Created widget b87e9ccf-7877-42dc-a8c9-3d9b72ba557b in DynamoDB table widgets
+2026-11-23 16:20:01,908 INFO Created widget 43a3d383-1276-46ff-a20b-9d297c7176ad in DynamoDB table widgets
+2026-11-23 16:20:02,090 INFO Created widget d08eca9a-6ed6-4656-a08e-4eed2328a8bb in DynamoDB table widgets
+2026-11-23 16:20:02,268 INFO Created widget f1edc9dd-0e14-4765-acd6-cbd631f5a935 in DynamoDB table widgets
+2026-11-23 16:20:02,437 WARNING failed to find widget 2f027100-b4e7-4fb7-a4ec-f6055e92cdbc in DynamoDB table widgets
+2026-11-23 16:20:02,722 INFO Created widget 662d544a-f30a-4d4e-89d0-f85a22e0aa47 in DynamoDB table widgets
+2026-11-23 16:20:02,907 INFO Created widget bb1ed4de-4c84-4811-a8ad-08dcf51b4eef in DynamoDB table widgets
+2026-11-23 16:20:03,081 INFO Created widget fe6f94eb-a119-4581-98e7-4598234efc84 in DynamoDB table widgets
+2026-11-23 16:20:03,262 INFO Created widget 8a30350c-a225-4e95-81a4-2b5b6bb67d2c in DynamoDB table widgets
+2026-11-23 16:20:03,438 WARNING failed to find widget 354b8acf-cec0-4d99-b672-eb72f1d1cd41 in DynamoDB table widgets
+2026-11-23 16:20:03,611 INFO Created widget 5abf22dc-a026-45f6-8467-5b22bfc6b4d8 in DynamoDB table widgets
+2026-11-23 16:20:03,785 WARNING failed to find widget 6433be69-1117-46b5-a40f-17c031d4752f in DynamoDB table widgets
+2026-11-23 16:20:03,959 WARNING failed to find widget f52c88b6-2cb6-452b-a8fd-4e6cac8be0ec in DynamoDB table widgets
+2026-11-23 16:20:04,129 WARNING failed to find widget 5a30cf11-165e-4979-baa2-404c13260e7c in DynamoDB table widgets
+2026-11-23 16:20:04,310 INFO Created widget a5e39544-2a2a-49b9-801d-008c082a2012 in DynamoDB table widgets
+2026-11-23 16:20:04,586 INFO Created widget 6433be69-1117-46b5-a40f-17c031d4752f in DynamoDB table widgets
+2026-11-23 16:20:04,767 INFO Created widget 9a67d5a3-4720-468a-867b-4a1978c24594 in DynamoDB table widgets
+2026-11-23 16:20:04,951 INFO Created widget 78e25d57-5e7e-4f47-b7f7-fde917d789a8 in DynamoDB table widgets
+2026-11-23 16:20:05,130 INFO Created widget bafd65f3-07fa-46ed-ae71-42c40b0d7dd7 in DynamoDB table widgets
+2026-11-23 16:20:05,310 INFO Created widget 97f0b64e-83f7-499e-a800-6c4a1ab3b6bd in DynamoDB table widgets
+2026-11-23 16:20:05,499 INFO Created widget 5a30cf11-165e-4979-baa2-404c13260e7c in DynamoDB table widgets
+2026-11-23 16:20:05,675 INFO Created widget fa49b184-f391-4293-b28f-91d7eef26967 in DynamoDB table widgets
+2026-11-23 16:20:05,863 INFO Created widget 10210186-877a-4309-b19a-56d08c29ae4b in DynamoDB table widgets
+2026-11-23 16:20:06,069 INFO Created widget e7368512-4384-4466-bc54-3813954197ec in DynamoDB table widgets
+2026-11-23 16:20:06,246 WARNING failed to find widget e2590953-15eb-4e42-8a1f-612127cf2fbd in DynamoDB table widgets
+2026-11-23 16:20:06,528 INFO Created widget 6370d90c-28ee-4683-862e-9ca4ab5e1913 in DynamoDB table widgets
+2026-11-23 16:20:06,698 INFO Created widget 5bebe4fd-326b-48dd-b55e-852f26717214 in DynamoDB table widgets
+2026-11-23 16:20:06,871 INFO Created widget efa4b4f4-f72e-4dfe-81b5-367b722ac3d0 in DynamoDB table widgets
+2026-11-23 16:20:07,061 INFO Created widget f52c88b6-2cb6-452b-a8fd-4e6cac8be0ec in DynamoDB table widgets
+2026-11-23 16:20:07,239 INFO Created widget e2590953-15eb-4e42-8a1f-612127cf2fbd in DynamoDB table widgets
+2026-11-23 16:20:07,415 INFO Created widget 02925834-0523-4c02-9deb-e512b4eca47f in DynamoDB table widgets
+2026-11-23 16:20:07,592 INFO Created widget 4289d005-aba0-485d-9d9f-7591cd6b60cc in DynamoDB table widgets
+2026-11-23 16:20:07,783 INFO Created widget eacca36b-449b-44dd-9cda-bade448ae690 in DynamoDB table widgets
+2026-11-23 16:20:07,972 INFO Created widget a8125562-db82-46a1-9923-75e2e18ea609 in DynamoDB table widgets
+2026-11-23 16:20:08,158 INFO Created widget 92ffdfbd-5e05-406e-8635-623d62913ec9 in DynamoDB table widgets
+2026-11-23 16:20:08,422 INFO Created widget 6d16133d-d280-46a4-ba7e-e08249ef5adc in DynamoDB table widgets
+2026-11-23 16:20:08,686 INFO Updated widget fe6f94eb-a119-4581-98e7-4598234efc84 in DynamoDB table widgets
+2026-11-23 16:20:08,869 INFO Created widget 56e6b3ce-a91c-4da8-903a-b84b6ce671c6 in DynamoDB table widgets
+2026-11-23 16:20:09,047 INFO Created widget 09a94d69-14b5-4c7c-8185-f69c1d3f56b2 in DynamoDB table widgets
+2026-11-23 16:20:09,228 INFO Created widget 50c4e949-4a36-48b0-91cf-db6dbe90851f in DynamoDB table widgets
+2026-11-23 16:20:09,435 INFO Created widget 5dee6346-9c19-45f6-bcac-17bb20d45cc9 in DynamoDB table widgets
+2026-11-23 16:20:09,612 INFO Widget 92ffdfbd-5e05-406e-8635-623d62913ec9 deleted from table widgets
+2026-11-23 16:20:09,789 INFO Created widget ff1edc72-d7a7-42fe-9501-48fa07892256 in DynamoDB table widgets
+2026-11-23 16:20:09,958 INFO Created widget 7d89f211-683c-47c6-bb45-4773726d0e5c in DynamoDB table widgets
+2026-11-23 16:20:10,138 INFO Created widget b82e658a-139e-49d0-9e24-5b50bf920d3f in DynamoDB table widgets
+2026-11-23 16:20:10,415 INFO Created widget af36ffbc-bf69-4ca2-83af-ec86d0cb63e0 in DynamoDB table widgets
+2026-11-23 16:20:10,692 INFO Updated widget 6433be69-1117-46b5-a40f-17c031d4752f in DynamoDB table widgets
+2026-11-23 16:20:10,870 INFO Created widget 396f5ec6-b2ee-4b3f-a102-b58f0e1a84a7 in DynamoDB table widgets
+2026-11-23 16:20:11,046 INFO Created widget 0877af7a-1ef3-4d6b-974d-3f4ae858b23e in DynamoDB table widgets
+2026-11-23 16:20:11,234 WARNING failed to find widget 15bd57c1-332f-4b1e-8108-55eb7dd628b0 in DynamoDB table widgets
+2026-11-23 16:20:11,415 INFO Created widget 0e5382a6-f47e-405c-86f3-52afbdc0b85d in DynamoDB table widgets
+2026-11-23 16:20:11,595 WARNING failed to find widget a19af16d-a45d-41c3-a4b4-6e867003392a in DynamoDB table widgets
+2026-11-23 16:20:11,776 INFO Created widget 88f62f56-366c-494b-8156-e6f78c77e112 in DynamoDB table widgets
+2026-11-23 16:20:11,953 INFO Created widget 6a34d9b8-46b7-4e53-8560-7d136aed9598 in DynamoDB table widgets
+2026-11-23 16:20:12,130 INFO Created widget a35a9250-8500-4413-a0f2-c71478fd50d6 in DynamoDB table widgets
+2026-11-23 16:20:12,435 INFO Created widget 4a7288e4-bc4c-41a4-be56-240e3a4b5679 in DynamoDB table widgets
+2026-11-23 16:20:12,749 INFO Created widget 87c9063d-e030-471f-b249-4efed77aa036 in DynamoDB table widgets
+2026-11-23 16:20:12,952 INFO Created widget 49882e5f-3ebb-4176-8d5f-990f082ca7c7 in DynamoDB table widgets
+2026-11-23 16:20:13,153 WARNING failed to find widget 65900303-fa18-45b4-8eaf-bf6609118b83 in DynamoDB table widgets
+2026-11-23 16:20:13,327 INFO Created widget 9f9d47cc-5082-4978-bb1f-2357b1c06731 in DynamoDB table widgets
+2026-11-23 16:20:13,607 INFO Updated widget 97f0b64e-83f7-499e-a800-6c4a1ab3b6bd in DynamoDB table widgets
+2026-11-23 16:20:13,797 INFO Created widget be269146-1342-45f3-95fd-09fb965050ee in DynamoDB table widgets
+2026-11-23 16:20:13,991 INFO Created widget 98dadf12-d139-409f-bdbb-8e67da38090a in DynamoDB table widgets
+2026-11-23 16:20:14,169 INFO Created widget 52b9f0c1-74a1-4475-8b59-4cbb4bc2374e in DynamoDB table widgets
+2026-11-23 16:20:14,342 WARNING failed to find widget 9ec36445-4faa-466a-9273-3030fde0f0a0 in DynamoDB table widgets
+2026-11-23 16:20:14,630 INFO Created widget 6a412dc9-1e15-4f8f-b03d-4ad0ce6546c9 in DynamoDB table widgets
+2026-11-23 16:20:14,809 WARNING Unable to delete widget c647cec8-4586-4459-8910-a34dbc1b4231; widget not found in table widgets
+2026-11-23 16:20:15,575 INFO Created widget b7b4ccb2-5037-411a-8ba3-a63c1a0f0fd3 in DynamoDB table widgets
+2026-11-23 16:20:15,846 INFO Updated widget 97f0b64e-83f7-499e-a800-6c4a1ab3b6bd in DynamoDB table widgets
+2026-11-23 16:20:16,137 INFO Updated widget b7b4ccb2-5037-411a-8ba3-a63c1a0f0fd3 in DynamoDB table widgets
+2026-11-23 16:20:16,329 INFO Created widget a1fa637c-09da-43cd-b13e-2baf6a48543e in DynamoDB table widgets
+2026-11-23 16:20:16,520 INFO Widget 56e6b3ce-a91c-4da8-903a-b84b6ce671c6 deleted from table widgets
+2026-11-23 16:20:16,707 INFO Created widget 7a70b26b-d95e-426e-9640-27c6ff87481d in DynamoDB table widgets
+2026-11-23 16:20:16,985 INFO Updated widget eaffbe7e-a6f6-4a5d-9490-c564917d53f7 in DynamoDB table widgets
+2026-11-23 16:20:17,168 INFO Created widget e7d0f12f-0c9b-40d0-a0b5-b64182561305 in DynamoDB table widgets
+2026-11-23 16:20:17,438 INFO Created widget ca298f9c-110b-40f0-8492-22bd3a4fba29 in DynamoDB table widgets
+2026-11-23 16:20:17,626 INFO Created widget 31d9f7b7-869b-46d9-962b-85c41a5fa966 in DynamoDB table widgets
+2026-11-23 16:20:17,814 INFO Created widget c647cec8-4586-4459-8910-a34dbc1b4231 in DynamoDB table widgets
+2026-11-23 16:20:17,995 INFO Created widget aa3d8138-515d-4c25-b86c-7dc3883a4e31 in DynamoDB table widgets
+2026-11-23 16:20:18,175 INFO Created widget 627c44ca-a1d2-49cc-99ad-91cff3a53dbc in DynamoDB table widgets
+2026-11-23 16:20:18,356 INFO Created widget 2f027100-b4e7-4fb7-a4ec-f6055e92cdbc in DynamoDB table widgets
+2026-11-23 16:20:18,535 INFO Created widget 65900303-fa18-45b4-8eaf-bf6609118b83 in DynamoDB table widgets
+2026-11-23 16:20:18,716 INFO Created widget ae058c56-d665-4a05-8bc8-68b881937916 in DynamoDB table widgets
+2026-11-23 16:20:19,050 INFO Updated widget 6370d90c-28ee-4683-862e-9ca4ab5e1913 in DynamoDB table widgets
+2026-11-23 16:20:19,247 INFO Created widget 20513387-5b0b-4978-8643-e798fc93686e in DynamoDB table widgets
+2026-11-23 16:20:19,517 INFO Created widget 5f035379-1054-438c-8a83-c14e5ffec7d5 in DynamoDB table widgets
+2026-11-23 16:20:19,745 WARNING failed to find widget ea1c4bc6-0ff3-4dda-bb5e-1d39393cd434 in DynamoDB table widgets
+2026-11-23 16:20:19,957 INFO Created widget 7682f3f3-4831-4341-a527-de8d5e529a3f in DynamoDB table widgets
+2026-11-23 16:20:20,196 INFO Created widget 0c6e3ac5-e85e-4d2f-8182-3556020a0a41 in DynamoDB table widgets
+2026-11-23 16:20:20,401 INFO Created widget e2fb865e-be0d-4379-8a28-d1a36c2647ef in DynamoDB table widgets
+2026-11-23 16:20:20,681 INFO Updated widget edc197f0-49ca-418e-8af7-880b9b7a4092 in DynamoDB table widgets
+2026-11-23 16:20:20,859 INFO Widget 396f5ec6-b2ee-4b3f-a102-b58f0e1a84a7 deleted from table widgets
+2026-11-23 16:20:21,031 INFO Created widget 17a2d927-b89e-430a-bb14-a8e5ab683c4a in DynamoDB table widgets
+2026-11-23 16:20:21,206 INFO Widget 2f027100-b4e7-4fb7-a4ec-f6055e92cdbc deleted from table widgets
+2026-11-23 16:20:21,384 INFO Created widget 6cf2adba-20ff-4140-86e8-037b55261246 in DynamoDB table widgets
+2026-11-23 16:20:21,675 INFO Created widget e5699ca7-01d2-46fd-b031-a9d362b4fade in DynamoDB table widgets
+2026-11-23 16:20:21,851 INFO Created widget 1ef8a077-0edb-460f-9e19-2f4dac398e08 in DynamoDB table widgets
+2026-11-23 16:20:22,119 INFO Updated widget 9a67d5a3-4720-468a-867b-4a1978c24594 in DynamoDB table widgets
+2026-11-23 16:20:22,383 INFO Updated widget 31d9f7b7-869b-46d9-962b-85c41a5fa966 in DynamoDB table widgets
+2026-11-23 16:20:22,561 INFO Created widget 35c5eafa-57ee-448c-9035-a4d4d78b2dfc in DynamoDB table widgets
+2026-11-23 16:20:22,734 INFO Created widget 96d3c368-c48f-4850-8008-e5e51f8f680b in DynamoDB table widgets
+2026-11-23 16:20:22,934 INFO Created widget 5910f5ce-9c28-4543-a2fc-22c7dec47c52 in DynamoDB table widgets
+2026-11-23 16:20:23,111 INFO Created widget 5a7bcd91-f7a8-4883-b068-c8d4cc536efc in DynamoDB table widgets
+2026-11-23 16:20:23,293 INFO Widget 96d3c368-c48f-4850-8008-e5e51f8f680b deleted from table widgets
+2026-11-23 16:20:23,477 INFO Created widget aa560668-500a-4d3e-ba4c-06abe3553f1d in DynamoDB table widgets
+2026-11-23 16:20:23,753 WARNING Unable to delete widget be8645b5-4a82-4c71-933c-6776da70b479; widget not found in table widgets
+2026-11-23 16:20:23,931 INFO Created widget 5bf1b5e6-d46e-4761-9250-259adcebce6c in DynamoDB table widgets
+2026-11-23 16:20:24,200 INFO Updated widget 5910f5ce-9c28-4543-a2fc-22c7dec47c52 in DynamoDB table widgets
+2026-11-23 16:20:24,375 INFO Widget 6a34d9b8-46b7-4e53-8560-7d136aed9598 deleted from table widgets
+2026-11-23 16:20:24,561 INFO Created widget eb619646-6dd6-46bd-bf8a-ff3968ad87fd in DynamoDB table widgets
+2026-11-23 16:20:24,765 WARNING Unable to delete widget f31ad06b-15b6-4c84-beba-dcc698841881; widget not found in table widgets
+2026-11-23 16:20:24,948 INFO Created widget 6ff3eb91-8ff6-4972-8053-e790498ca9ff in DynamoDB table widgets
+2026-11-23 16:20:25,116 INFO Created widget 41e2e29d-06df-46ee-8b0e-8c0d041d7208 in DynamoDB table widgets
+2026-11-23 16:20:25,443 INFO Updated widget aa3d8138-515d-4c25-b86c-7dc3883a4e31 in DynamoDB table widgets
+2026-11-23 16:20:25,629 INFO Created widget e7a998cf-22ca-44b8-92af-38e681168d47 in DynamoDB table widgets
+2026-11-23 16:20:25,939 INFO Created widget be8645b5-4a82-4c71-933c-6776da70b479 in DynamoDB table widgets
+2026-11-23 16:20:26,116 INFO Widget f1edc9dd-0e14-4765-acd6-cbd631f5a935 deleted from table widgets
+2026-11-23 16:20:26,317 INFO Created widget 9d6d9a9d-d2df-452d-a426-e3cf2f4d4294 in DynamoDB table widgets
+2026-11-23 16:20:26,585 INFO Updated widget 97f0b64e-83f7-499e-a800-6c4a1ab3b6bd in DynamoDB table widgets
+2026-11-23 16:20:26,757 WARNING failed to find widget 354b8acf-cec0-4d99-b672-eb72f1d1cd41 in DynamoDB table widgets
+2026-11-23 16:20:26,931 INFO Created widget 45b41b9d-2221-4b1e-8af7-ddc3630ece6b in DynamoDB table widgets
+2026-11-23 16:20:27,117 INFO Created widget 822ae85b-1077-4db2-9458-7f4b2dfef5b8 in DynamoDB table widgets
+2026-11-23 16:20:27,299 INFO Created widget 540bc57d-1ea2-426d-bc2b-d341c6a21bdb in DynamoDB table widgets
+2026-11-23 16:20:27,484 INFO Widget 5abf22dc-a026-45f6-8467-5b22bfc6b4d8 deleted from table widgets
+2026-11-23 16:20:27,662 INFO Created widget 61d935ee-96cb-4aeb-942d-6eeab9fdabbc in DynamoDB table widgets
+2026-11-23 16:20:28,025 INFO Updated widget bb1ed4de-4c84-4811-a8ad-08dcf51b4eef in DynamoDB table widgets
+2026-11-23 16:20:28,211 INFO Created widget 540cfafb-e789-494d-b967-3011adac199d in DynamoDB table widgets
+2026-11-23 16:20:28,505 INFO Updated widget 5bf1b5e6-d46e-4761-9250-259adcebce6c in DynamoDB table widgets
+2026-11-23 16:20:28,683 WARNING failed to find widget 221e6bfc-85e1-430d-a177-832c02631acc in DynamoDB table widgets
+2026-11-23 16:20:28,962 INFO Updated widget 6ff3eb91-8ff6-4972-8053-e790498ca9ff in DynamoDB table widgets
+2026-11-23 16:20:29,139 INFO Created widget 89f8c3d9-1aff-4158-a96b-3189f4edaa41 in DynamoDB table widgets
+2026-11-23 16:20:29,323 INFO Created widget 75dce686-0898-4167-acca-1ec866aca5d6 in DynamoDB table widgets
+2026-11-23 16:20:29,594 INFO Updated widget 6cf2adba-20ff-4140-86e8-037b55261246 in DynamoDB table widgets
+2026-11-23 16:20:29,767 INFO Created widget 966f7ed2-00af-4ba6-9648-523a34bb9b46 in DynamoDB table widgets
+2026-11-23 16:20:29,953 INFO Created widget 0c9321eb-9d1e-473f-af23-4c3c29513349 in DynamoDB table widgets
+2026-11-23 16:20:30,230 INFO Created widget b319679a-fa8c-41eb-bb90-eb3f398088bb in DynamoDB table widgets
+2026-11-23 16:20:30,413 INFO Created widget 73861380-598f-40db-81de-f5b22254adda in DynamoDB table widgets
+2026-11-23 16:20:30,598 INFO Created widget 15bd57c1-332f-4b1e-8108-55eb7dd628b0 in DynamoDB table widgets
+2026-11-23 16:20:30,779 INFO Created widget ea1c4bc6-0ff3-4dda-bb5e-1d39393cd434 in DynamoDB table widgets
+2026-11-23 16:20:30,963 INFO Created widget 354b8acf-cec0-4d99-b672-eb72f1d1cd41 in DynamoDB table widgets
+2026-11-23 16:20:31,745 INFO Widget d08eca9a-6ed6-4656-a08e-4eed2328a8bb deleted from table widgets
+2026-11-23 16:20:32,018 INFO Updated widget b87e9ccf-7877-42dc-a8c9-3d9b72ba557b in DynamoDB table widgets
+2026-11-23 16:20:32,243 INFO Created widget 21aeb0e0-0ebe-4c21-8f40-7ce712f9240e in DynamoDB table widgets
+2026-11-23 16:20:32,461 INFO Created widget 69522284-b7eb-4b42-879d-0eeb5f6f59a0 in DynamoDB table widgets
+2026-11-23 16:20:32,647 INFO Created widget 7a6b9455-a022-4d49-ad14-80039a46f675 in DynamoDB table widgets
+2026-11-23 16:20:32,951 INFO Created widget dd3729e6-58c2-4903-b989-8f5a2554445f in DynamoDB table widgets
+2026-11-23 16:20:33,134 INFO Widget b7b4ccb2-5037-411a-8ba3-a63c1a0f0fd3 deleted from table widgets
+2026-11-23 16:20:33,405 INFO Created widget f2148702-13cf-4a75-880f-f2c6332089d3 in DynamoDB table widgets
+2026-11-23 16:20:33,583 WARNING Unable to delete widget ed27e959-bd51-448c-a4f6-220690476788; widget not found in table widgets
+2026-11-23 16:20:33,859 INFO Updated widget 73861380-598f-40db-81de-f5b22254adda in DynamoDB table widgets
+2026-11-23 16:20:34,047 INFO Widget 6a412dc9-1e15-4f8f-b03d-4ad0ce6546c9 deleted from table widgets
+2026-11-23 16:20:34,225 INFO Created widget 9ec36445-4faa-466a-9273-3030fde0f0a0 in DynamoDB table widgets
+2026-11-23 16:20:34,403 INFO Created widget a19af16d-a45d-41c3-a4b4-6e867003392a in DynamoDB table widgets
+2026-11-23 16:20:34,670 INFO Updated widget 65900303-fa18-45b4-8eaf-bf6609118b83 in DynamoDB table widgets
+2026-11-23 16:20:34,947 INFO Updated widget 73861380-598f-40db-81de-f5b22254adda in DynamoDB table widgets
+2026-11-23 16:20:35,209 INFO Updated widget efa4b4f4-f72e-4dfe-81b5-367b722ac3d0 in DynamoDB table widgets
+2026-11-23 16:20:35,386 WARNING failed to find widget 5abf22dc-a026-45f6-8467-5b22bfc6b4d8 in DynamoDB table widgets
+2026-11-23 16:20:35,743 INFO Updated widget ff1edc72-d7a7-42fe-9501-48fa07892256 in DynamoDB table widgets
+2026-11-23 16:20:35,939 INFO Created widget 498f37e1-b2e6-4d17-925f-ea51dceae0c8 in DynamoDB table widgets
+2026-11-23 16:20:36,205 INFO Updated widget 6370d90c-28ee-4683-862e-9ca4ab5e1913 in DynamoDB table widgets
+2026-11-23 16:20:36,388 INFO Created widget 315558a8-73e2-4fb6-8e62-3227aae782ab in DynamoDB table widgets
+2026-11-23 16:20:36,662 INFO Updated widget 6d16133d-d280-46a4-ba7e-e08249ef5adc in DynamoDB table widgets
+2026-11-23 16:20:36,963 INFO Updated widget 315558a8-73e2-4fb6-8e62-3227aae782ab in DynamoDB table widgets
+2026-11-23 16:20:37,235 INFO Updated widget 50c4e949-4a36-48b0-91cf-db6dbe90851f in DynamoDB table widgets
+2026-11-23 16:20:37,417 INFO Created widget 3cef8151-4387-4420-8c48-74b6eb03abab in DynamoDB table widgets
+2026-11-23 16:20:37,607 INFO Created widget 7d6ec5f6-79c7-47b8-baa3-55b288ce6304 in DynamoDB table widgets
+2026-11-23 16:20:37,786 INFO Widget 6cf2adba-20ff-4140-86e8-037b55261246 deleted from table widgets
+2026-11-23 16:20:38,089 INFO Created widget 139a5313-9ed3-41f4-ac45-042325b3697a in DynamoDB table widgets
+2026-11-23 16:20:38,282 INFO Created widget 2490413d-036a-4e4a-8645-4b3866ff896d in DynamoDB table widgets
+2026-11-23 16:20:38,457 WARNING Unable to delete widget 94e9df8d-2770-49e0-b2fb-4b5476fe9420; widget not found in table widgets
+2026-11-23 16:20:38,639 INFO Created widget 2f5b43c8-2604-4a5c-ba9d-189aa29777cb in DynamoDB table widgets
+2026-11-23 16:20:38,963 INFO Created widget 7f8a4ae5-6f70-42d5-b19e-c1d780179af1 in DynamoDB table widgets
+2026-11-23 16:20:39,235 INFO Updated widget 9d6d9a9d-d2df-452d-a426-e3cf2f4d4294 in DynamoDB table widgets
+2026-11-23 16:20:39,428 INFO Created widget 52f2986d-21ce-4e60-a452-237f2d212902 in DynamoDB table widgets
+2026-11-23 16:20:39,625 INFO Created widget 2877d9ee-8aed-4ecc-9d7f-d8ed496d9a96 in DynamoDB table widgets
+2026-11-23 16:20:39,902 INFO Updated widget 0e5382a6-f47e-405c-86f3-52afbdc0b85d in DynamoDB table widgets
+2026-11-23 16:20:40,096 WARNING failed to find widget 927a19b6-391c-4131-9aff-7e2b6c6ebf2f in DynamoDB table widgets
+2026-11-23 16:20:40,271 WARNING Unable to delete widget ac33391a-af01-4e44-ac8f-72cba161c63f; widget not found in table widgets
+2026-11-23 16:20:40,455 INFO Created widget 45d519ea-3ad5-4d00-97f0-e5e4fc477e99 in DynamoDB table widgets
+2026-11-23 16:20:40,653 INFO Created widget 9d27620c-d361-41ab-b243-9f17e2b86632 in DynamoDB table widgets
+2026-11-23 16:20:40,911 INFO Widget 21aeb0e0-0ebe-4c21-8f40-7ce712f9240e deleted from table widgets
+2026-11-23 16:20:41,309 INFO Updated widget 8a30350c-a225-4e95-81a4-2b5b6bb67d2c in DynamoDB table widgets
+2026-11-23 16:20:41,498 INFO Widget e5699ca7-01d2-46fd-b031-a9d362b4fade deleted from table widgets
+2026-11-23 16:20:41,681 INFO Created widget 9b61d3fb-66c7-4054-81e9-50d3f164535c in DynamoDB table widgets
+2026-11-23 16:20:41,980 INFO Widget 6433be69-1117-46b5-a40f-17c031d4752f deleted from table widgets
+2026-11-23 16:20:42,221 WARNING failed to find widget a35e77e9-03c5-4220-abd1-994a3cf2609a in DynamoDB table widgets
+2026-11-23 16:20:42,441 INFO Created widget cd33c4b2-f30c-4619-af79-298d1a1f6459 in DynamoDB table widgets
+2026-11-23 16:20:42,777 INFO Updated widget a5e39544-2a2a-49b9-801d-008c082a2012 in DynamoDB table widgets
+2026-11-23 16:20:42,957 INFO Widget 7d89f211-683c-47c6-bb45-4773726d0e5c deleted from table widgets
+2026-11-23 16:20:43,157 INFO Created widget 13069e7f-01e1-424f-8fbc-f1dcaa4e08d3 in DynamoDB table widgets
+2026-11-23 16:20:43,338 INFO Created widget 10c45019-e4b2-4bb3-9115-73ab9903691d in DynamoDB table widgets
+2026-11-23 16:20:43,636 INFO Created widget 9fd461bc-9cff-4763-a70f-6922264420a1 in DynamoDB table widgets
+2026-11-23 16:20:43,816 INFO Created widget 4d534881-981b-42c7-ab90-cbcae9814d14 in DynamoDB table widgets
+2026-11-23 16:20:44,034 INFO Created widget 221e6bfc-85e1-430d-a177-832c02631acc in DynamoDB table widgets
+2026-11-23 16:20:44,253 INFO Created widget 14fa6a48-ca71-4324-a65a-14d7c2857bfd in DynamoDB table widgets
+2026-11-23 16:20:44,592 INFO Updated widget 10210186-877a-4309-b19a-56d08c29ae4b in DynamoDB table widgets
+2026-11-23 16:20:44,772 INFO Created widget ebc43bf0-aba2-4214-a2f0-38df76044fa2 in DynamoDB table widgets
+2026-11-23 16:20:44,964 INFO Created widget 6c0b1f6b-09cf-4c59-baff-1f7475ee7295 in DynamoDB table widgets
+2026-11-23 16:20:45,156 WARNING Unable to delete widget 9a079f7e-0a1b-4b4d-a530-a3d1eb1de694; widget not found in table widgets
+2026-11-23 16:20:45,334 INFO Created widget f7e7c41c-082d-4fe0-93f2-8e1c5037b135 in DynamoDB table widgets
+2026-11-23 16:20:45,572 INFO Created widget 922f124a-81ff-46b6-8f01-934eed09968c in DynamoDB table widgets
+2026-11-23 16:20:45,993 INFO Updated widget 17a2d927-b89e-430a-bb14-a8e5ab683c4a in DynamoDB table widgets
+2026-11-23 16:20:46,256 INFO Updated widget ae058c56-d665-4a05-8bc8-68b881937916 in DynamoDB table widgets
+2026-11-23 16:20:46,526 INFO Updated widget dd3729e6-58c2-4903-b989-8f5a2554445f in DynamoDB table widgets
+2026-11-23 16:20:46,800 INFO Updated widget 5f035379-1054-438c-8a83-c14e5ffec7d5 in DynamoDB table widgets
+2026-11-23 16:20:47,100 WARNING failed to find widget 2f027100-b4e7-4fb7-a4ec-f6055e92cdbc in DynamoDB table widgets
+2026-11-23 16:20:47,367 INFO Updated widget 15bd57c1-332f-4b1e-8108-55eb7dd628b0 in DynamoDB table widgets
+2026-11-23 16:20:47,542 INFO Created widget ed27e959-bd51-448c-a4f6-220690476788 in DynamoDB table widgets
+2026-11-23 16:20:47,748 INFO Created widget 927a19b6-391c-4131-9aff-7e2b6c6ebf2f in DynamoDB table widgets
+2026-11-23 16:20:47,926 INFO Widget 20513387-5b0b-4978-8643-e798fc93686e deleted from table widgets
+2026-11-23 16:20:48,216 INFO Updated widget 7a6b9455-a022-4d49-ad14-80039a46f675 in DynamoDB table widgets
+2026-11-23 16:20:49,037 INFO Created widget 3345c281-fa91-418c-bc6b-731c3c22b6aa in DynamoDB table widgets
+2026-11-23 16:20:49,312 INFO Updated widget 10210186-877a-4309-b19a-56d08c29ae4b in DynamoDB table widgets
+2026-11-23 16:20:49,491 INFO Created widget 746691cc-edff-471c-bbf0-3d4a4c66b931 in DynamoDB table widgets
+2026-11-23 16:20:49,667 INFO Created widget cb9f622e-3285-4e2d-8230-ad3af36d1ff0 in DynamoDB table widgets
+2026-11-23 16:20:49,974 INFO Widget 69522284-b7eb-4b42-879d-0eeb5f6f59a0 deleted from table widgets
+2026-11-23 16:20:50,159 WARNING failed to find widget f1edc9dd-0e14-4765-acd6-cbd631f5a935 in DynamoDB table widgets
+2026-11-23 16:20:50,359 INFO Created widget ceef800d-0e82-4444-b815-d338b833601e in DynamoDB table widgets
+2026-11-23 16:20:50,535 INFO Created widget 445528b1-48b7-43b8-908b-37ffd442bf94 in DynamoDB table widgets
+2026-11-23 16:20:50,713 WARNING failed to find widget 2f027100-b4e7-4fb7-a4ec-f6055e92cdbc in DynamoDB table widgets
+2026-11-23 16:20:50,890 INFO Created widget 3c96718d-8a73-4288-aa82-36c76f8a9218 in DynamoDB table widgets
+2026-11-23 16:20:51,161 INFO Updated widget b87e9ccf-7877-42dc-a8c9-3d9b72ba557b in DynamoDB table widgets
+2026-11-23 16:20:51,342 INFO Created widget 90712730-d87d-468c-baca-c8bba1261574 in DynamoDB table widgets
+2026-11-23 16:20:51,565 INFO Created widget 0727839c-34cc-4386-b2d1-280bb51dd9ec in DynamoDB table widgets
+2026-11-23 16:20:51,745 INFO Created widget 9e401c73-955c-4485-89f0-17e7506b91d8 in DynamoDB table widgets
+2026-11-23 16:20:52,032 INFO Created widget a35e77e9-03c5-4220-abd1-994a3cf2609a in DynamoDB table widgets
+2026-11-23 16:20:52,221 INFO Created widget f31ad06b-15b6-4c84-beba-dcc698841881 in DynamoDB table widgets
+2026-11-23 16:20:52,405 INFO Created widget 80a8568f-f63f-47c9-bf09-d080fa9580a6 in DynamoDB table widgets
+2026-11-23 16:20:52,591 INFO Created widget b52506f7-6296-4f43-8759-23e2edfdd1c3 in DynamoDB table widgets
+2026-11-23 16:20:52,775 INFO Created widget 9a079f7e-0a1b-4b4d-a530-a3d1eb1de694 in DynamoDB table widgets
+2026-11-23 16:20:52,954 INFO Created widget 94e9df8d-2770-49e0-b2fb-4b5476fe9420 in DynamoDB table widgets
+2026-11-23 16:20:53,133 INFO Created widget b73a281b-04bd-4e68-b702-6065d7853c09 in DynamoDB table widgets
+2026-11-23 16:20:53,315 INFO Widget fe6f94eb-a119-4581-98e7-4598234efc84 deleted from table widgets
+2026-11-23 16:20:53,491 WARNING failed to find widget 7d89f211-683c-47c6-bb45-4773726d0e5c in DynamoDB table widgets
+2026-11-23 16:20:53,669 INFO Created widget 890aadb1-7679-49e3-a268-3e6bbd83de24 in DynamoDB table widgets
+2026-11-23 16:20:53,977 INFO Created widget 13f4f07e-cbea-4f51-9a63-4dcccd71597e in DynamoDB table widgets
+2026-11-23 16:20:54,170 INFO Created widget a4efe13d-83f0-47ca-b6ba-a8849d0bc989 in DynamoDB table widgets
+2026-11-23 16:20:54,339 WARNING failed to find widget 6a34d9b8-46b7-4e53-8560-7d136aed9598 in DynamoDB table widgets
+2026-11-23 16:20:54,515 INFO Created widget 90e5758b-97e4-433f-9a80-302502d4e775 in DynamoDB table widgets
+2026-11-23 16:20:54,785 INFO Updated widget be269146-1342-45f3-95fd-09fb965050ee in DynamoDB table widgets
+2026-11-23 16:20:55,049 INFO Updated widget 02925834-0523-4c02-9deb-e512b4eca47f in DynamoDB table widgets
+2026-11-23 16:20:55,226 INFO Created widget 1201a85d-ff7c-40d5-b304-aeacf5d2bd31 in DynamoDB table widgets
+2026-11-23 16:20:55,404 INFO Widget 14fa6a48-ca71-4324-a65a-14d7c2857bfd deleted from table widgets
+2026-11-23 16:20:55,585 INFO Created widget f9542da0-6fe1-47e2-93a4-0b348e4f90e8 in DynamoDB table widgets
+2026-11-23 16:20:55,853 INFO Updated widget 73861380-598f-40db-81de-f5b22254adda in DynamoDB table widgets
+2026-11-23 16:20:56,165 INFO Created widget 5ba3da9c-5188-4bc7-892d-795aa86aec06 in DynamoDB table widgets
+2026-11-23 16:20:56,343 INFO Created widget 8e1270ed-20e2-4f7a-a727-9635195ee875 in DynamoDB table widgets
+2026-11-23 16:20:56,641 INFO Created widget ac33391a-af01-4e44-ac8f-72cba161c63f in DynamoDB table widgets
+2026-11-23 16:20:56,820 INFO Created widget 77a3fc75-b72b-4070-a45e-535d7cd18fc9 in DynamoDB table widgets
+2026-11-23 16:20:57,004 INFO Created widget c22e8ca3-b42b-4fa9-b229-dad777dd9f4e in DynamoDB table widgets
+2026-11-23 16:20:57,300 INFO Updated widget a35a9250-8500-4413-a0f2-c71478fd50d6 in DynamoDB table widgets
+2026-11-23 16:20:57,480 INFO Created widget ab527c19-0df7-40da-88e2-39a06302b94b in DynamoDB table widgets
+2026-11-23 16:20:57,657 INFO Created widget af8172f8-4bd2-4ff5-95d2-2146f9834a4f in DynamoDB table widgets
+2026-11-23 16:20:57,862 INFO Created widget 68718a27-3919-4be4-b74a-42f9ce3c233b in DynamoDB table widgets
+2026-11-23 16:20:58,057 INFO Created widget 48bd4748-7fbb-42de-a84a-e7fa17348582 in DynamoDB table widgets
+2026-11-23 16:20:58,253 INFO Created widget a197b6ac-151d-449b-919f-b2e791ce1bb1 in DynamoDB table widgets
+2026-11-23 16:20:58,437 INFO Created widget cd5f7d52-0932-4fed-a2c0-c9182d8c4091 in DynamoDB table widgets
+2026-11-23 16:20:58,835 INFO Updated widget 48bd4748-7fbb-42de-a84a-e7fa17348582 in DynamoDB table widgets
+2026-11-23 16:20:59,112 INFO Updated widget ebc43bf0-aba2-4214-a2f0-38df76044fa2 in DynamoDB table widgets
+2026-11-23 16:20:59,305 INFO Created widget 72560a87-1c71-4aaa-8bba-013df382b1d9 in DynamoDB table widgets
+2026-11-23 16:20:59,479 INFO Created widget 2c68d8a3-9b53-4930-9777-c23ccb8664ad in DynamoDB table widgets
+2026-11-23 16:20:59,752 INFO Updated widget eaffbe7e-a6f6-4a5d-9490-c564917d53f7 in DynamoDB table widgets
+2026-11-23 16:26:43,811 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-11-23 16:26:45,309 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2026-11-23 16:26:45,485 INFO Created widget 55e88756-633b-4c47-aca7-b0f41c5624b2 in DynamoDB table widgets
+2026-11-23 16:26:45,674 INFO Created widget 0c414fd6-4a6f-4cca-9d9b-21467376b8cc in DynamoDB table widgets
+2026-11-23 16:26:45,874 INFO Created widget 4b16ea1b-ae1c-48cc-8389-04acfe897c79 in DynamoDB table widgets
+2026-11-23 16:26:46,051 INFO Created widget 99065fce-3640-44b4-9531-234c3c17152c in DynamoDB table widgets
+2026-11-23 16:26:46,226 INFO Created widget beaa3319-2b1a-401f-afa1-f8d34e6123a4 in DynamoDB table widgets
+2026-11-23 16:26:46,418 INFO Created widget 7f601167-9877-45bd-9b33-3fd30bd4abf0 in DynamoDB table widgets
+2026-11-23 16:26:46,597 INFO Created widget 8701a8ea-979e-416d-818a-d28c86e34af4 in DynamoDB table widgets
+2026-11-23 16:26:46,771 WARNING failed to find widget 856a6550-b21f-496b-bd17-290c3743c1af in DynamoDB table widgets
+2026-11-23 16:26:46,913 INFO Created widget eb565eea-a0e5-44e2-83c1-2c55b2493397 in DynamoDB table widgets
+2026-11-23 16:26:46,946 WARNING failed to find widget dd8538ef-88fa-4c48-b9da-efa2304e9b63 in DynamoDB table widgets
+2026-11-23 16:26:47,094 INFO Created widget ca6b4440-0187-4aad-ad54-75f8a34f2f43 in DynamoDB table widgets
+2026-11-23 16:26:47,124 INFO Created widget 48be7906-8474-46b1-ba8c-871c6c83f0dd in DynamoDB table widgets
+2026-11-23 16:26:47,270 INFO Created widget 2b939b09-eb95-40bd-80b8-df887eae23b9 in DynamoDB table widgets
+2026-11-23 16:26:47,393 INFO Created widget a78910b1-4ad4-4bfd-bafa-79709e5c3823 in DynamoDB table widgets
+2026-11-23 16:26:47,457 INFO Created widget f1b2bd8c-2fe3-4508-89ba-b1425cc0e429 in DynamoDB table widgets
+2026-11-23 16:26:47,574 INFO Created widget 17b0068c-38f3-44cf-b5d4-40684f828e26 in DynamoDB table widgets
+2026-11-23 16:26:47,641 INFO Created widget 72080464-1aea-4d8a-8c44-b54355dae5ce in DynamoDB table widgets
+2026-11-23 16:26:47,753 INFO Created widget dd8538ef-88fa-4c48-b9da-efa2304e9b63 in DynamoDB table widgets
+2026-11-23 16:26:47,842 INFO Created widget 4422ce92-846d-4f6c-9040-9e95a7786228 in DynamoDB table widgets
+2026-11-23 16:26:47,956 INFO Created widget 0d1884c1-54fb-4db5-82f3-cf01fe3d6bba in DynamoDB table widgets
+2026-11-23 16:26:48,023 INFO Created widget 15fa2e3a-d919-466d-9bd8-16ac9c19966b in DynamoDB table widgets
+2026-11-23 16:26:48,134 INFO Created widget 474716c0-b309-4de3-b306-3545b51cd9ed in DynamoDB table widgets
+2026-11-23 16:26:48,211 INFO Created widget 1913e682-0888-44d0-82de-852f51c3ff78 in DynamoDB table widgets
+2026-11-23 16:26:48,307 INFO Created widget edaf9da3-9383-4f4c-b2b3-161e75fae194 in DynamoDB table widgets
+2026-11-23 16:26:48,393 INFO Created widget c1cded33-69b2-4b5d-96cb-2517bedb8c0d in DynamoDB table widgets
+2026-11-23 16:26:48,481 INFO Created widget cbf62adc-b3b6-4da4-8eff-eaade9213b53 in DynamoDB table widgets
+2026-11-23 16:26:48,572 INFO Created widget 856a6550-b21f-496b-bd17-290c3743c1af in DynamoDB table widgets
+2026-11-23 16:26:48,662 INFO Created widget c81c8e5d-c7b7-4ae8-a567-a0b565525ab4 in DynamoDB table widgets
+2026-11-23 16:26:48,841 INFO Created widget 94aee45b-84ab-4feb-a0f5-8a83b080244e in DynamoDB table widgets
+2026-11-23 16:26:48,845 INFO Created widget c19a8841-4f43-4c34-b2e3-262dd8eca0c6 in DynamoDB table widgets
+2026-11-23 16:26:49,017 INFO Created widget a6244fe7-60e8-4163-90d7-9a2e75061f16 in DynamoDB table widgets
+2026-11-23 16:26:49,018 INFO Created widget bf115cfd-f66f-42f3-ba0b-c903e8ea6fd5 in DynamoDB table widgets
+2026-11-23 16:26:49,199 INFO Created widget 57bf2d16-0874-488a-b5d0-4f1622fd0c28 in DynamoDB table widgets
+2026-11-23 16:26:49,308 INFO Created widget 2a2fe975-3267-4845-9e09-ffc7faf837c4 in DynamoDB table widgets
+2026-11-23 16:26:49,385 INFO Created widget c05ec8d6-5ec7-488c-b1c3-851056439007 in DynamoDB table widgets
+2026-11-23 16:26:49,476 WARNING Unable to delete widget 19e33dfd-a29b-434a-962b-dbf398a8a2fa; widget not found in table widgets
+2026-11-23 16:26:49,563 INFO Created widget 48188f2e-c90e-4149-abb8-f292061f8757 in DynamoDB table widgets
+2026-11-23 16:26:49,651 INFO Created widget b4888b52-2087-4f82-8887-433f4a329e74 in DynamoDB table widgets
+2026-11-23 16:26:49,744 INFO Created widget ac3d1897-7c1e-4c15-9d11-2f8407c69cc3 in DynamoDB table widgets
+2026-11-23 16:26:49,928 INFO Created widget a65d9641-fa33-4701-8ce3-9c079e9e5c77 in DynamoDB table widgets
+2026-11-23 16:26:49,933 INFO Updated widget eb565eea-a0e5-44e2-83c1-2c55b2493397 in DynamoDB table widgets
+2026-11-23 16:26:50,121 INFO Created widget 8c831dc8-71de-4d47-b79e-50b4b21f5264 in DynamoDB table widgets
+2026-11-23 16:26:50,121 INFO Created widget 9dfa55e6-dd67-490c-9e4b-40acd4b3b0fc in DynamoDB table widgets
+2026-11-23 16:26:50,329 INFO Created widget 95605f14-72c5-4716-81fb-4d281c8613e7 in DynamoDB table widgets
+2026-11-23 16:26:50,329 INFO Created widget 6dfa5006-18eb-43a0-ae00-beff5fcb2ced in DynamoDB table widgets
+2026-11-23 16:26:50,540 INFO Created widget 3b667c2a-7018-44e4-be00-b96ba8416860 in DynamoDB table widgets
+2026-11-23 16:26:50,631 INFO Created widget 46ebf7e0-eb2e-4061-8b6b-8b995199d076 in DynamoDB table widgets
+2026-11-23 16:26:50,807 INFO Created widget e02a81e2-3b7b-401c-981a-cfda91c1c652 in DynamoDB table widgets
+2026-11-23 16:26:50,903 INFO Created widget 98589ba6-1707-431d-81b7-eee81cb2218a in DynamoDB table widgets
+2026-11-23 16:26:50,993 WARNING failed to find widget 9d11adc4-6157-48d5-858c-057b8d84ccee in DynamoDB table widgets
+2026-11-23 16:26:51,083 INFO Created widget 248629f9-69f3-4a22-9cc1-898b217eb12e in DynamoDB table widgets
+2026-11-23 16:26:51,176 INFO Created widget c5b6d855-0fc9-40b0-8f64-ad3847c97415 in DynamoDB table widgets
+2026-11-23 16:26:51,269 INFO Created widget 508e29e0-6cbe-4780-95c1-7a6f0eb7e294 in DynamoDB table widgets
+2026-11-23 16:26:51,355 INFO Widget c05ec8d6-5ec7-488c-b1c3-851056439007 deleted from table widgets
+2026-11-23 16:26:51,451 INFO Created widget ed53fb37-46b6-42da-b524-b9e238ae4856 in DynamoDB table widgets
+2026-11-23 16:26:51,538 INFO Created widget 227b72d3-eabf-4d3e-a281-356d74c34918 in DynamoDB table widgets
+2026-11-23 16:26:51,629 INFO Created widget b5d56eb6-7ead-4bd7-8247-227b7a6b62ae in DynamoDB table widgets
+2026-11-23 16:26:51,727 INFO Created widget fabe29b0-4f6d-4bac-a951-0e5bfcd320f7 in DynamoDB table widgets
+2026-11-23 16:26:51,815 INFO Created widget d27ef6f7-2e55-41be-bb04-1575eef6e5ec in DynamoDB table widgets
+2026-11-23 16:26:51,914 INFO Created widget 64c64b52-eddf-43d2-9b1b-26f358520463 in DynamoDB table widgets
+2026-11-23 16:26:52,087 INFO Updated widget 7f601167-9877-45bd-9b33-3fd30bd4abf0 in DynamoDB table widgets
+2026-11-23 16:26:52,087 INFO Created widget 71ce02ce-74a8-4431-b96b-53cda544c5a6 in DynamoDB table widgets
+2026-11-23 16:26:52,272 INFO Created widget 19e33dfd-a29b-434a-962b-dbf398a8a2fa in DynamoDB table widgets
+2026-11-23 16:26:52,384 INFO Updated widget 856a6550-b21f-496b-bd17-290c3743c1af in DynamoDB table widgets
+2026-11-23 16:26:52,475 INFO Widget 98589ba6-1707-431d-81b7-eee81cb2218a deleted from table widgets
+2026-11-23 16:26:52,666 INFO Created widget 16e6c851-ff08-46bd-9d80-6b5801ea26e0 in DynamoDB table widgets
+2026-11-23 16:26:52,698 INFO Updated widget 48188f2e-c90e-4149-abb8-f292061f8757 in DynamoDB table widgets
+2026-11-23 16:26:52,987 INFO Created widget a775a691-6eef-4f5f-a2ae-3dd4fc5fc5e5 in DynamoDB table widgets
+2026-11-23 16:26:52,987 INFO Created widget 97031ee9-3eb0-4780-bb6a-7458c099cf67 in DynamoDB table widgets
+2026-11-23 16:26:53,197 INFO Created widget c941c6ad-e71a-4961-854e-449f69a9befe in DynamoDB table widgets
+2026-11-23 16:26:53,202 INFO Created widget 4af9b9dc-2078-4df3-9e92-8283862818f7 in DynamoDB table widgets
+2026-11-23 16:26:53,375 INFO Widget 4b16ea1b-ae1c-48cc-8389-04acfe897c79 deleted from table widgets
+2026-11-23 16:26:53,405 WARNING failed to find widget 6e5ed234-5561-4fe1-9390-8bcb5e918b8f in DynamoDB table widgets
+2026-11-23 16:26:53,652 INFO Updated widget c81c8e5d-c7b7-4ae8-a567-a0b565525ab4 in DynamoDB table widgets
+2026-11-23 16:26:53,804 INFO Updated widget eb565eea-a0e5-44e2-83c1-2c55b2493397 in DynamoDB table widgets
+2026-11-23 16:26:53,837 INFO Created widget 985d11c1-9059-4aa0-b11e-bb1cb46a1873 in DynamoDB table widgets
+2026-11-23 16:26:53,999 INFO Widget c5b6d855-0fc9-40b0-8f64-ad3847c97415 deleted from table widgets
+2026-11-23 16:26:54,026 INFO Created widget 1b0df634-e42a-442d-85cc-de34f65841fa in DynamoDB table widgets
+2026-11-23 16:26:54,216 INFO Created widget cf8dd2eb-5f18-427e-b150-97d4198ba503 in DynamoDB table widgets
+2026-11-23 16:26:54,302 INFO Updated widget 55e88756-633b-4c47-aca7-b0f41c5624b2 in DynamoDB table widgets
+2026-11-23 16:26:54,477 INFO Created widget 1814c4d4-d132-459a-974d-63ba21a29f32 in DynamoDB table widgets
+2026-11-23 16:26:54,522 INFO Updated widget 0c414fd6-4a6f-4cca-9d9b-21467376b8cc in DynamoDB table widgets
+2026-11-23 16:26:54,658 INFO Created widget ea7d36e6-d5fb-4674-bd4b-3666119e33ff in DynamoDB table widgets
+2026-11-23 16:26:54,716 WARNING failed to find widget 281a7165-576d-42c4-8e04-3fab6c61d2cc in DynamoDB table widgets
+2026-11-23 16:26:54,885 INFO Created widget ac98d80c-308e-4228-ada3-a10eddfc510d in DynamoDB table widgets
+2026-11-23 16:26:54,935 INFO Updated widget ca6b4440-0187-4aad-ad54-75f8a34f2f43 in DynamoDB table widgets
+2026-11-23 16:26:55,119 INFO Created widget cb26a5fc-51f2-4b4a-a909-1682c75b9a35 in DynamoDB table widgets
+2026-11-23 16:26:55,178 INFO Created widget c4bc1b88-ce4c-419a-8a7f-94639ea93d7a in DynamoDB table widgets
+2026-11-23 16:26:55,288 INFO Created widget 72b81a2c-0e53-48de-935e-7794fe1bf5a1 in DynamoDB table widgets
+2026-11-23 16:26:55,353 INFO Created widget 042d6da1-cae1-4f71-8e6e-f1865d8c2bed in DynamoDB table widgets
+2026-11-23 16:26:55,466 WARNING Unable to delete widget 182fe16a-18f2-4b3f-b120-4031cf502bf4; widget not found in table widgets
+2026-11-23 16:26:55,616 INFO Updated widget d27ef6f7-2e55-41be-bb04-1575eef6e5ec in DynamoDB table widgets
+2026-11-23 16:26:55,658 INFO Created widget 9dc1d9f0-20ff-4985-bdee-693f15b3ef74 in DynamoDB table widgets
+2026-11-23 16:26:55,888 INFO Updated widget 856a6550-b21f-496b-bd17-290c3743c1af in DynamoDB table widgets
+2026-11-23 16:26:56,044 INFO Updated widget b4888b52-2087-4f82-8887-433f4a329e74 in DynamoDB table widgets
+2026-11-23 16:26:56,066 INFO Created widget 7f3fb8d8-0d6b-4789-bf41-dcf6bca9576d in DynamoDB table widgets
+2026-11-23 16:26:56,210 INFO Widget beaa3319-2b1a-401f-afa1-f8d34e6123a4 deleted from table widgets
+2026-11-23 16:26:56,332 INFO Updated widget 985d11c1-9059-4aa0-b11e-bb1cb46a1873 in DynamoDB table widgets
+2026-11-23 16:26:56,393 WARNING failed to find widget ab5af9b8-7057-4009-9dbd-4137e457930f in DynamoDB table widgets
+2026-11-23 16:26:56,513 INFO Created widget 472aa230-ffc2-4662-b85c-e858a3c12c1c in DynamoDB table widgets
+2026-11-23 16:26:56,694 INFO Created widget f61a3120-314b-405e-ba7a-7a4d79e80772 in DynamoDB table widgets
+2026-11-23 16:26:56,782 INFO Created widget ab5af9b8-7057-4009-9dbd-4137e457930f in DynamoDB table widgets
+2026-11-23 16:26:56,877 INFO Created widget 9e149d06-050f-466b-8a2d-654dd5fd6f2b in DynamoDB table widgets
+2026-11-23 16:26:56,978 INFO Widget 4422ce92-846d-4f6c-9040-9e95a7786228 deleted from table widgets
+2026-11-23 16:26:57,240 INFO Updated widget a78910b1-4ad4-4bfd-bafa-79709e5c3823 in DynamoDB table widgets
+2026-11-23 16:26:57,276 INFO Updated widget ea7d36e6-d5fb-4674-bd4b-3666119e33ff in DynamoDB table widgets
+2026-11-23 16:26:57,461 WARNING failed to find widget adcea074-43e1-4f2b-bb64-a22a27d13d29 in DynamoDB table widgets
+2026-11-23 16:26:57,508 INFO Updated widget 856a6550-b21f-496b-bd17-290c3743c1af in DynamoDB table widgets
+2026-11-23 16:26:57,632 INFO Created widget bc752c7c-f7c2-4983-9481-4702b1189825 in DynamoDB table widgets
+2026-11-23 16:26:57,697 INFO Created widget cd2cabb3-33b8-4c31-a8be-fb79349130c5 in DynamoDB table widgets
+2026-11-23 16:26:57,907 INFO Created widget 8eddfabc-389a-4d00-9d9c-67e7327ed1ea in DynamoDB table widgets
+2026-11-23 16:26:57,913 INFO Created widget 281a7165-576d-42c4-8e04-3fab6c61d2cc in DynamoDB table widgets
+2026-11-23 16:26:58,080 INFO Created widget 6e5ed234-5561-4fe1-9390-8bcb5e918b8f in DynamoDB table widgets
+2026-11-23 16:26:58,170 INFO Updated widget b5d56eb6-7ead-4bd7-8247-227b7a6b62ae in DynamoDB table widgets
+2026-11-23 16:26:58,254 INFO Created widget bc702bc7-4198-462c-8eec-735faf46cb59 in DynamoDB table widgets
+2026-11-23 16:26:58,344 INFO Created widget 0b5f941c-b8a3-4018-a275-979cf4bd0ed4 in DynamoDB table widgets
+2026-11-23 16:26:58,431 INFO Created widget c418f4a3-8ff8-4116-9007-7b824703bdcf in DynamoDB table widgets
+2026-11-23 16:26:58,604 INFO Updated widget 2a2fe975-3267-4845-9e09-ffc7faf837c4 in DynamoDB table widgets
+2026-11-23 16:26:58,606 INFO Created widget 7c772154-125a-4c6a-bc20-33d16a4b839c in DynamoDB table widgets
+2026-11-23 16:26:58,776 INFO Created widget a96557c2-aa9a-42f4-8bae-a14e5485514b in DynamoDB table widgets
+2026-11-23 16:26:58,968 INFO Created widget 2cc0b99b-122b-428b-9dc9-4bb41dc694d3 in DynamoDB table widgets
+2026-11-23 16:26:59,059 INFO Created widget a1b2f449-98de-4dc5-a1fc-c890d41e9bf1 in DynamoDB table widgets
+2026-11-23 16:26:59,233 INFO Updated widget 2b939b09-eb95-40bd-80b8-df887eae23b9 in DynamoDB table widgets
+2026-11-23 16:26:59,235 INFO Created widget 182fe16a-18f2-4b3f-b120-4031cf502bf4 in DynamoDB table widgets
+2026-11-23 16:26:59,410 INFO Created widget 0cabc623-a301-4e91-992e-12c3e0c1d0eb in DynamoDB table widgets
+2026-11-23 16:26:59,502 INFO Updated widget 57bf2d16-0874-488a-b5d0-4f1622fd0c28 in DynamoDB table widgets
+2026-11-23 16:26:59,589 INFO Created widget c51dc8ef-4522-4144-8340-abb34a58131a in DynamoDB table widgets
+2026-11-23 16:26:59,678 INFO Created widget 9d11adc4-6157-48d5-858c-057b8d84ccee in DynamoDB table widgets
+2026-11-23 16:26:59,950 INFO Updated widget c81c8e5d-c7b7-4ae8-a567-a0b565525ab4 in DynamoDB table widgets
+2026-11-23 16:27:00,138 INFO Created widget 35eba9c8-b921-4882-9a9d-287450cc3f82 in DynamoDB table widgets
+2026-11-23 16:27:00,315 INFO Created widget adcea074-43e1-4f2b-bb64-a22a27d13d29 in DynamoDB table widgets
+2026-11-23 16:27:00,461 INFO Created widget e44e10fa-9220-4a8a-bdef-be439f6fcbaf in DynamoDB table widgets
+2026-11-23 16:27:00,492 INFO Created widget 31fb1242-ce9b-4983-bee7-244f146513f8 in DynamoDB table widgets
+2026-11-23 16:27:00,635 INFO Created widget 0d915609-5555-4b86-800d-bdf54329ac2a in DynamoDB table widgets
+2026-11-23 16:27:00,672 INFO Created widget 9af53cf5-e073-4b6f-88f6-dab0a8f6b1dc in DynamoDB table widgets
+2026-11-23 16:27:00,909 INFO Created widget f3a6e8cb-f7d9-4580-98f9-7f64b1680d53 in DynamoDB table widgets
+2026-11-23 16:27:00,951 INFO Updated widget 3b667c2a-7018-44e4-be00-b96ba8416860 in DynamoDB table widgets
+2026-11-23 16:27:01,086 INFO Created widget 1c3907a7-aafd-4dad-b0b2-e2d678d16793 in DynamoDB table widgets
+2026-11-23 16:27:01,218 INFO Created widget f5ad9333-e2b0-46a8-a862-7b3df458f4b5 in DynamoDB table widgets
+2026-11-23 16:27:01,405 INFO Updated widget 8c831dc8-71de-4d47-b79e-50b4b21f5264 in DynamoDB table widgets
+2026-11-23 16:27:01,499 INFO Updated widget 508e29e0-6cbe-4780-95c1-7a6f0eb7e294 in DynamoDB table widgets
+2026-11-23 16:27:01,587 INFO Created widget ca3aa139-4a33-4e44-9db4-e5a296f60b76 in DynamoDB table widgets
+2026-11-23 16:27:01,675 INFO Created widget 28ed445b-3194-4939-99c5-c27667a3a9cb in DynamoDB table widgets
+2026-11-23 16:27:01,774 INFO Created widget e483db43-c1d2-43e4-88d9-567323f6c666 in DynamoDB table widgets
+2026-11-23 16:27:01,953 INFO Created widget af4bb955-072b-4dbb-9f36-923c6327993d in DynamoDB table widgets
+2026-11-23 16:27:01,953 INFO Updated widget edaf9da3-9383-4f4c-b2b3-161e75fae194 in DynamoDB table widgets
+2026-11-23 16:27:02,130 INFO Created widget 65992a48-3c69-4ca4-af9f-d5bf362c74f2 in DynamoDB table widgets
+2026-11-23 16:27:02,131 INFO Widget ca3aa139-4a33-4e44-9db4-e5a296f60b76 deleted from table widgets
+2026-11-23 16:27:02,419 INFO Updated widget 48be7906-8474-46b1-ba8c-871c6c83f0dd in DynamoDB table widgets
+2026-11-23 16:27:02,636 INFO Created widget 179608fe-53bc-4aab-a0c2-164e02e57ea5 in DynamoDB table widgets
+2026-11-23 16:27:02,820 INFO Created widget 606b90b5-d956-48fb-87f0-999725f114cc in DynamoDB table widgets
+2026-11-23 16:27:02,940 INFO Updated widget 7c772154-125a-4c6a-bc20-33d16a4b839c in DynamoDB table widgets
+2026-11-23 16:27:03,095 INFO Created widget b43ce5c8-84b9-448d-9f15-014a989f50b8 in DynamoDB table widgets
+2026-11-23 16:27:03,125 INFO Created widget 89a23a3d-d4f2-4f1c-b86a-19de60e2800b in DynamoDB table widgets
+2026-11-23 16:27:03,358 INFO Updated widget 48188f2e-c90e-4149-abb8-f292061f8757 in DynamoDB table widgets
+2026-11-23 16:27:03,393 INFO Updated widget 9dfa55e6-dd67-490c-9e4b-40acd4b3b0fc in DynamoDB table widgets
+2026-11-23 16:27:03,540 INFO Created widget fe392b97-44cb-4c24-bcf6-7fd616fdafee in DynamoDB table widgets
+2026-11-23 16:27:03,706 INFO Updated widget 1814c4d4-d132-459a-974d-63ba21a29f32 in DynamoDB table widgets
+2026-11-23 16:27:03,843 INFO Updated widget 042d6da1-cae1-4f71-8e6e-f1865d8c2bed in DynamoDB table widgets
+2026-11-23 16:27:03,891 INFO Created widget d6993bfa-b579-404d-8606-dde2a7467ea2 in DynamoDB table widgets
+2026-11-23 16:27:04,020 INFO Created widget 73d00bee-85bb-4a2f-bf46-e5109df556f5 in DynamoDB table widgets
+2026-11-23 16:27:04,174 INFO Created widget 8cecf714-3068-4c6a-960d-c08460a440b9 in DynamoDB table widgets
+2026-11-23 16:27:04,204 INFO Created widget be496122-ffcd-460f-9869-cfa4ffc5d771 in DynamoDB table widgets
+2026-11-23 16:27:04,363 INFO Created widget 6e808ab2-8dc5-4c7f-8faf-0c4f24730b66 in DynamoDB table widgets
+2026-11-23 16:27:04,386 INFO Created widget 621ee049-fc1e-4bb1-aff1-3430e296649f in DynamoDB table widgets
+2026-11-23 16:27:04,557 INFO Created widget d57cac44-1bc8-4171-b20c-e5164f3686ff in DynamoDB table widgets
+2026-11-23 16:27:04,661 INFO Updated widget cd2cabb3-33b8-4c31-a8be-fb79349130c5 in DynamoDB table widgets
+2026-11-23 16:27:04,737 INFO Created widget 26dbe136-b336-4dc5-8bb9-22fa59115065 in DynamoDB table widgets
+2026-11-23 16:27:04,851 INFO Created widget 73a14e06-42ca-490b-8c23-3b82991b05b0 in DynamoDB table widgets
+2026-11-23 16:27:04,921 INFO Created widget 78cd2476-5fd7-47a1-8974-7f19a226ada9 in DynamoDB table widgets
+2026-11-23 16:27:05,117 INFO Updated widget 1814c4d4-d132-459a-974d-63ba21a29f32 in DynamoDB table widgets
+2026-11-23 16:27:05,208 INFO Widget cbf62adc-b3b6-4da4-8eff-eaade9213b53 deleted from table widgets
+2026-11-23 16:27:05,294 INFO Created widget 95beb1ce-cee7-4a86-bb02-2c11b11d1b2b in DynamoDB table widgets
+2026-11-23 16:27:05,483 INFO Updated widget b5d56eb6-7ead-4bd7-8247-227b7a6b62ae in DynamoDB table widgets
+2026-11-23 16:27:05,606 INFO Updated widget 71ce02ce-74a8-4431-b96b-53cda544c5a6 in DynamoDB table widgets
+2026-11-23 16:27:05,697 INFO Created widget 990ab5d6-0e76-4211-bac1-e2ec27eeabca in DynamoDB table widgets
+2026-11-23 16:27:05,788 INFO Created widget 20875c54-2991-484b-955f-6a05f4058ff4 in DynamoDB table widgets
+2026-11-23 16:27:05,874 INFO Created widget 79c1895a-d804-4fde-951c-d9ceb0b6ad83 in DynamoDB table widgets
+2026-11-23 16:27:05,963 WARNING failed to find widget 9af54fcc-b5b6-484f-bef5-85155b91cd65 in DynamoDB table widgets
+2026-11-23 16:27:06,053 INFO Created widget 9af54fcc-b5b6-484f-bef5-85155b91cd65 in DynamoDB table widgets
+2026-11-23 16:27:06,151 INFO Created widget 007555db-60bc-401a-bc3f-0cb0338acbe0 in DynamoDB table widgets
+2026-11-23 16:27:06,240 INFO Created widget f24f0f1d-d48c-49d1-9598-a943feb1c067 in DynamoDB table widgets
+2026-11-23 16:27:06,609 INFO Created widget 1c478ac4-b2f1-4f3a-9fe5-7ef52780c5ab in DynamoDB table widgets
+2026-11-23 16:27:06,609 INFO Widget 9e149d06-050f-466b-8a2d-654dd5fd6f2b deleted from table widgets
+2026-11-23 16:27:06,861 INFO Created widget 804a9111-b4df-449b-b57b-9d6bad609dfd in DynamoDB table widgets
+2026-11-23 16:27:06,861 INFO Created widget 74857db5-c5e7-46f1-a13e-22a39a834e4a in DynamoDB table widgets
+2026-11-23 16:27:07,051 INFO Created widget 3d1c522e-d594-423c-93cf-89098def2613 in DynamoDB table widgets
+2026-11-23 16:27:07,232 INFO Created widget 88c3795e-b50c-416c-a6e3-a7e32905430d in DynamoDB table widgets
+2026-11-23 16:27:07,346 INFO Created widget e79ce133-87ca-4e79-a37d-cb78b7526698 in DynamoDB table widgets
+2026-11-23 16:27:07,415 INFO Created widget 26831a07-f6bf-496f-bb4d-e9cb25d27bea in DynamoDB table widgets
+2026-11-23 16:27:07,629 INFO Updated widget 4af9b9dc-2078-4df3-9e92-8283862818f7 in DynamoDB table widgets
+2026-11-23 16:27:07,722 INFO Updated widget 73a14e06-42ca-490b-8c23-3b82991b05b0 in DynamoDB table widgets
+2026-11-23 16:27:07,892 INFO Created widget 5ff1f125-8835-4a86-bc92-5fb1d38e536c in DynamoDB table widgets
+2026-11-23 16:27:08,011 INFO Created widget 089865c7-0c1b-41e5-8e29-c5f37e3c8e03 in DynamoDB table widgets
+2026-11-23 16:27:08,075 INFO Widget f1b2bd8c-2fe3-4508-89ba-b1425cc0e429 deleted from table widgets
+2026-11-23 16:27:08,252 INFO Created widget b177e812-2219-4a4a-99fb-4a3d30fcb9c1 in DynamoDB table widgets
+2026-11-23 16:27:08,275 INFO Updated widget ac98d80c-308e-4228-ada3-a10eddfc510d in DynamoDB table widgets
+2026-11-23 16:27:08,472 INFO Created widget 53807eaf-776a-47b0-a686-a23e6429f202 in DynamoDB table widgets
+2026-11-23 16:27:08,564 INFO Updated widget 1c3907a7-aafd-4dad-b0b2-e2d678d16793 in DynamoDB table widgets
+2026-11-23 16:27:08,657 INFO Created widget 361e25f8-3249-480a-b3db-c709e38a6f33 in DynamoDB table widgets
+2026-11-23 16:27:08,764 INFO Widget 72b81a2c-0e53-48de-935e-7794fe1bf5a1 deleted from table widgets
+2026-11-23 16:27:08,862 INFO Created widget d33120d3-0832-4d69-840e-82cf3634169c in DynamoDB table widgets
+2026-11-23 16:27:08,968 INFO Created widget 910c4b45-c47d-4fe8-8ad2-78ca00d8e9b8 in DynamoDB table widgets
+2026-11-23 16:27:09,178 INFO Widget 1913e682-0888-44d0-82de-852f51c3ff78 deleted from table widgets
+2026-11-23 16:27:09,179 INFO Widget 64c64b52-eddf-43d2-9b1b-26f358520463 deleted from table widgets
+2026-11-23 16:27:09,358 INFO Created widget 41a95b3b-4c4a-4ec0-9bec-37de9dabc498 in DynamoDB table widgets
+2026-11-23 16:27:09,359 INFO Widget fabe29b0-4f6d-4bac-a951-0e5bfcd320f7 deleted from table widgets
+2026-11-23 16:27:09,541 INFO Created widget e988db8c-2732-4a0d-9b00-36e05100eb0d in DynamoDB table widgets
+2026-11-23 16:27:09,634 INFO Updated widget ea7d36e6-d5fb-4674-bd4b-3666119e33ff in DynamoDB table widgets
+2026-11-23 16:27:09,806 INFO Updated widget 1b0df634-e42a-442d-85cc-de34f65841fa in DynamoDB table widgets
+2026-11-23 16:27:09,895 INFO Updated widget 0c414fd6-4a6f-4cca-9d9b-21467376b8cc in DynamoDB table widgets
+2026-11-23 16:27:10,074 INFO Created widget 71aa36c3-4a3b-4c8b-a57a-d5041d1aeb88 in DynamoDB table widgets
+2026-11-23 16:27:10,108 INFO Created widget d8f415ef-6fa6-456d-859c-5e5eddf8e433 in DynamoDB table widgets
+2026-11-23 16:27:10,296 INFO Created widget 8673b606-c548-4bbf-befc-7f68068122a8 in DynamoDB table widgets
+2026-11-23 16:27:10,341 WARNING failed to find widget e8d64a11-fd26-4c17-adfd-fa3f5c53ac2f in DynamoDB table widgets
+2026-11-23 16:27:10,620 INFO Created widget 2b0ee301-4141-4776-924e-ea112d067545 in DynamoDB table widgets
+2026-11-23 16:27:10,620 INFO Updated widget a1b2f449-98de-4dc5-a1fc-c890d41e9bf1 in DynamoDB table widgets
+2026-11-23 16:27:10,807 INFO Created widget 5aff80c0-a5bd-43a1-b8b1-9b4d4c8ea871 in DynamoDB table widgets
+2026-11-23 16:27:10,807 INFO Created widget 10195aea-9951-4d82-bb13-5deb5bf805ee in DynamoDB table widgets
+2026-11-23 16:27:11,123 INFO Updated widget 1814c4d4-d132-459a-974d-63ba21a29f32 in DynamoDB table widgets
+2026-11-23 16:27:11,123 INFO Updated widget 0c414fd6-4a6f-4cca-9d9b-21467376b8cc in DynamoDB table widgets
+2026-11-23 16:27:11,400 INFO Updated widget 48be7906-8474-46b1-ba8c-871c6c83f0dd in DynamoDB table widgets
+2026-11-23 16:27:11,406 INFO Updated widget 042d6da1-cae1-4f71-8e6e-f1865d8c2bed in DynamoDB table widgets
+2026-11-23 16:27:11,574 INFO Created widget 0a97e1a0-c37d-4d71-9584-e036b4e42669 in DynamoDB table widgets
+2026-11-23 16:27:11,608 INFO Created widget e2e3b660-7f54-4d76-9a41-5df0e0eb5a66 in DynamoDB table widgets
+2026-11-23 16:27:11,751 INFO Created widget 5a3320bc-2ea1-4803-a5f3-579d7c95f087 in DynamoDB table widgets
+2026-11-23 16:27:11,788 INFO Created widget d4579faf-c905-45d6-b8bd-f38af032e15e in DynamoDB table widgets
+2026-11-23 16:27:11,932 INFO Widget 042d6da1-cae1-4f71-8e6e-f1865d8c2bed deleted from table widgets
+2026-11-23 16:27:11,968 INFO Created widget 4f18d811-3a6d-4377-a2cc-8ffc50187684 in DynamoDB table widgets
+2026-11-23 16:27:12,218 INFO Updated widget c81c8e5d-c7b7-4ae8-a567-a0b565525ab4 in DynamoDB table widgets
+2026-11-23 16:27:12,242 INFO Updated widget 9af53cf5-e073-4b6f-88f6-dab0a8f6b1dc in DynamoDB table widgets
+2026-11-23 16:27:12,418 INFO Created widget 48e69621-4fe8-4cb8-87ac-0bd7b97a61c4 in DynamoDB table widgets
+2026-11-23 16:27:12,475 INFO Updated widget bc702bc7-4198-462c-8eec-735faf46cb59 in DynamoDB table widgets
+2026-11-23 16:27:12,592 INFO Created widget e1dd5b7c-9a29-42ea-8e0f-44ee30742d34 in DynamoDB table widgets
+2026-11-23 16:27:12,800 INFO Created widget fce86c73-8c2a-49fc-8a95-b7f3b9138ab3 in DynamoDB table widgets
+2026-11-23 16:27:12,929 INFO Widget 856a6550-b21f-496b-bd17-290c3743c1af deleted from table widgets
+2026-11-23 16:27:13,109 INFO Created widget 1f67b84c-29d4-4c4d-86cd-3ec685704e5b in DynamoDB table widgets
+2026-11-23 16:27:13,109 INFO Widget 15fa2e3a-d919-466d-9bd8-16ac9c19966b deleted from table widgets
+2026-11-23 16:27:13,313 INFO Created widget 17c1c223-a1d4-4a95-a93d-d1adee035168 in DynamoDB table widgets
+2026-11-23 16:27:13,419 INFO Updated widget 99065fce-3640-44b4-9531-234c3c17152c in DynamoDB table widgets
+2026-11-23 16:27:13,509 INFO Created widget 3d8657aa-6ae2-48d4-8951-8e435412f6e7 in DynamoDB table widgets
+2026-11-23 16:27:13,684 INFO Created widget 7461766c-5c87-4cbd-afe1-c107223deee6 in DynamoDB table widgets
+2026-11-23 16:27:13,686 INFO Updated widget 2a2fe975-3267-4845-9e09-ffc7faf837c4 in DynamoDB table widgets
+2026-11-23 16:27:13,865 INFO Created widget 89a26c36-1f47-4fdd-a91a-27db88291204 in DynamoDB table widgets
+2026-11-23 16:27:14,054 INFO Updated widget 7f3fb8d8-0d6b-4789-bf41-dcf6bca9576d in DynamoDB table widgets
+2026-11-23 16:27:14,054 INFO Created widget 307ab63d-60c1-4292-9cc2-b76c40f2bd31 in DynamoDB table widgets
+2026-11-23 16:27:14,234 INFO Created widget e8d64a11-fd26-4c17-adfd-fa3f5c53ac2f in DynamoDB table widgets
+2026-11-23 16:27:14,326 INFO Updated widget 9d11adc4-6157-48d5-858c-057b8d84ccee in DynamoDB table widgets
+2026-11-23 16:27:14,431 INFO Created widget 27caeb7a-c4d2-49e6-9c3c-5864b537aeac in DynamoDB table widgets
+2026-11-23 16:27:14,604 INFO Widget 606b90b5-d956-48fb-87f0-999725f114cc deleted from table widgets
+2026-11-23 16:27:14,608 INFO Updated widget 307ab63d-60c1-4292-9cc2-b76c40f2bd31 in DynamoDB table widgets
+2026-11-23 16:27:14,789 INFO Created widget 5265a013-a9cc-4334-b50e-9b279e563e87 in DynamoDB table widgets
+2026-11-23 16:27:14,955 INFO Created widget 9d20d341-d855-40b6-bae5-1eeb2189f9ac in DynamoDB table widgets
+2026-11-23 16:27:14,961 INFO Widget a775a691-6eef-4f5f-a2ae-3dd4fc5fc5e5 deleted from table widgets
+2026-11-23 16:27:15,133 INFO Created widget 0d39af89-359e-4377-944f-12615fa91215 in DynamoDB table widgets
+2026-11-23 16:27:15,134 INFO Created widget e67fb133-7daa-4e5d-927b-9c677997ccc0 in DynamoDB table widgets
+2026-11-23 16:27:15,334 INFO Widget 16e6c851-ff08-46bd-9d80-6b5801ea26e0 deleted from table widgets
+2026-11-23 16:27:15,424 INFO Updated widget d27ef6f7-2e55-41be-bb04-1575eef6e5ec in DynamoDB table widgets
+2026-11-23 16:27:15,505 INFO Widget 0c414fd6-4a6f-4cca-9d9b-21467376b8cc deleted from table widgets
+2026-11-23 16:27:15,601 INFO Created widget 59b3aecd-5fea-4d4a-ba4a-2e9f3fddd487 in DynamoDB table widgets
+2026-11-23 16:27:15,684 INFO Widget 27caeb7a-c4d2-49e6-9c3c-5864b537aeac deleted from table widgets
+2026-11-23 16:27:15,868 INFO Updated widget a78910b1-4ad4-4bfd-bafa-79709e5c3823 in DynamoDB table widgets
+2026-11-23 16:27:15,957 INFO Updated widget e44e10fa-9220-4a8a-bdef-be439f6fcbaf in DynamoDB table widgets
+2026-11-23 16:27:16,046 INFO Created widget 9c9c6724-8bb8-4445-82b0-f77dc91ee82e in DynamoDB table widgets
+2026-11-23 16:27:16,754 INFO Widget 46ebf7e0-eb2e-4061-8b6b-8b995199d076 deleted from table widgets
+2026-11-23 16:27:17,010 INFO Updated widget cd2cabb3-33b8-4c31-a8be-fb79349130c5 in DynamoDB table widgets
