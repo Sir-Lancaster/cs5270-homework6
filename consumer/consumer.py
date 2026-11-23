@@ -6,6 +6,7 @@ import time
 # module imports
 from parsing import parse_request
 from sources import S3RequestSource
+from sources import SQSRequestSource
 from storage import S3WidgetStorage
 from storage import DynamoWidgetStorage
 
@@ -16,20 +17,31 @@ def main():
     arg = parse_args()
 
     logging.basicConfig(
-        filename="consumer.log",
         level=logging.INFO,
         format="%(asctime)s %(levelname)s %(message)s",
+        handlers=[
+            logging.FileHandler("consumer.log"),
+            logging.StreamHandler(),
+        ],
     )
 
     s3_client=boto3.client("s3")
 
+    # Choose storage
     if arg.storage == "s3":
         storage = S3WidgetStorage(s3_client, arg.widget_bucket)
     else: 
         dynamo_table = boto3.resource("dynamodb").Table(arg.table)
         storage = DynamoWidgetStorage(dynamo_table)
 
-    source = S3RequestSource(s3_client, arg.request_bucket)
+    # Choose source
+    if arg.queue is not None:
+        sqs_client = boto3.client("sqs")
+        queue_url = sqs_client.get_queue_url(QueueName=arg.queue)["QueueUrl"]
+        source = SQSRequestSource(sqs_client, queue_url)
+    else:
+        source = S3RequestSource(s3_client, arg.request_bucket)
+    
     poll(source, storage, arg.max_empty_polls)
 
 def poll(source, storage, max_empty_polls):
@@ -73,12 +85,15 @@ def processRequest(request, storage):
             logging.warning(f"bad request type on widget {request['widgetId']}")
 
 def parse_args(argv=None):
-    """Parses command line arguments to determine storage location, request bucket, 
+    """Parses command line arguments to determine storage location, source, request bucket, 
     widget bucket, table, and maximum empty polls. returns the arguments."""
 
     parser = argparse.ArgumentParser(description="Widget request consumer")
+    source_group = parser.add_mutually_exclusive_group(required=True)
+
     parser.add_argument("--storage", choices=["s3", "dynamo"], required=True, help="where to store widgets")
-    parser.add_argument("--request_bucket", required=True, help="name of the bucket that producer stores requests in.")
+    source_group.add_argument("--request_bucket", help="name of the bucket that producer stores requests in.")
+    source_group.add_argument("--queue", help="Name of the sqs queue to read requests from.")
     parser.add_argument("--widget_bucket", required=False, help="name of the bucket to store widgets at in s3")
     parser.add_argument("--table", required=False, default="widgets", help="name of the table where widgets are stored in DynamoDB")
     parser.add_argument("--max_empty_polls", required=False, type=int, default=100, help="Number of empty polls before exiting")
