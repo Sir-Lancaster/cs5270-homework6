@@ -77,10 +77,11 @@ def processRequest(request, storage):
             storage.create(request)
         
         case "update":
-            pass
+            storage.update(request)
         
         case "delete":
-            pass
+            storage.delete(request)
+            
         case _:
             logging.warning(f"bad request type on widget {request['widgetId']}")
 
