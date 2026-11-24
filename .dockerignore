@@ -1,0 +1,6 @@
+.venv/
+.git/
+*.log
+aws.env
+__pycache__/
+test/
