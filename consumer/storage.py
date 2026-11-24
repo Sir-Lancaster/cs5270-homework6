@@ -48,7 +48,7 @@ class S3WidgetStorage(WidgetStorage):
     def delete(self, request):
         """Removes widget. If it doesn't exist, log warning and move on."""
         try:
-            self.s3_client.head_object(Bucket=self.bucket_name, Key=self.make_key)
+            self.s3_client.head_object(Bucket=self.bucket_name, Key=self.make_key(request))
         except ClientError as e:
             if e.response["Error"]["Code"] == "404":
                 logging.warning("Widget %s not found in bucket %s", request["widgetId"], self.bucket_name)
